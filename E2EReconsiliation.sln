@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "E2EReconsiliation", "E2EReconsiliation\E2EReconsiliation.dtproj", "{F5FCCD0C-D02B-4FE3-98FA-671AA9E75C28}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Sydipel_Recon", "E2EReconsiliation\Sydipel_Recon.dtproj", "{A425416A-23A0-4FE1-93A5-73823566CE89}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Sydipel", "E2EReconsiliation\Sydipel.dtproj", "{C9854386-E63E-413D-80DA-1E79C3BF924E}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Finacle", "E2EReconsiliation\Finacle.dtproj", "{AB3FF8A7-EA83-4281-B00A-71E0AA615998}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "P8_Loans", "E2EReconsiliation\P8_Loans.dtproj", "{309A9A36-5ADA-4712-80C8-C322398A678D}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Iris", "E2EReconsiliation\Iris.dtproj", "{97927745-21F9-4BD8-9B7F-A96D260DA11B}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Iris_Recon", "E2EReconsiliation\Iris_Recon.dtproj", "{8F570F20-1274-483F-AED1-CE7BEE31BD4E}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "P8_Loans_Recon", "E2EReconsiliation\P8_Loans_Recon.dtproj", "{D7022E0F-F781-4872-96A4-B89FC5E65899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5FCCD0C-D02B-4FE3-98FA-671AA9E75C28}.Development|Default.ActiveCfg = Development
+		{F5FCCD0C-D02B-4FE3-98FA-671AA9E75C28}.Development|Default.Build.0 = Development
+		{A425416A-23A0-4FE1-93A5-73823566CE89}.Development|Default.ActiveCfg = Development
+		{A425416A-23A0-4FE1-93A5-73823566CE89}.Development|Default.Build.0 = Development
+		{C9854386-E63E-413D-80DA-1E79C3BF924E}.Development|Default.ActiveCfg = Development
+		{C9854386-E63E-413D-80DA-1E79C3BF924E}.Development|Default.Build.0 = Development
+		{AB3FF8A7-EA83-4281-B00A-71E0AA615998}.Development|Default.ActiveCfg = Development
+		{AB3FF8A7-EA83-4281-B00A-71E0AA615998}.Development|Default.Build.0 = Development
+		{309A9A36-5ADA-4712-80C8-C322398A678D}.Development|Default.ActiveCfg = Development
+		{309A9A36-5ADA-4712-80C8-C322398A678D}.Development|Default.Build.0 = Development
+		{97927745-21F9-4BD8-9B7F-A96D260DA11B}.Development|Default.ActiveCfg = Development
+		{97927745-21F9-4BD8-9B7F-A96D260DA11B}.Development|Default.Build.0 = Development
+		{8F570F20-1274-483F-AED1-CE7BEE31BD4E}.Development|Default.ActiveCfg = Development
+		{8F570F20-1274-483F-AED1-CE7BEE31BD4E}.Development|Default.Build.0 = Development
+		{D7022E0F-F781-4872-96A4-B89FC5E65899}.Development|Default.ActiveCfg = Development
+		{D7022E0F-F781-4872-96A4-B89FC5E65899}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38F802AA-0FB2-4D73-A4F1-96D19F0B6D58}
+	EndGlobalSection
+EndGlobal
